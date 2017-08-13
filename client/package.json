@@ -2,7 +2,7 @@
   "name": "changeface",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "kai.guo <kai.guo@aispeech.com>",
+  "author": "fwindpeak <fwindpeak@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
